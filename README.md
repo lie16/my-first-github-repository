@@ -1,4 +1,4 @@
 # my-first-github-repository
 Udemy github training by B Stashcuk. Here's my first repository. Let's get started with github
 
-Readme.md was just edited manually. This file was modified locally
+This line was modified manually during resolve conflict
